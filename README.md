@@ -1,0 +1,2 @@
+# tentakka
+Django Prject
